@@ -4,7 +4,8 @@ Runs entirely on your local machine — no internet, no data sharing. Shows step
 
 ### 🎥 Demo
 
-[![Watch the demo](./minichat.png)](./Mini%20Chatgpt%20Screen%20Record.mp4)
+[![Watch the demo]](./Mini%20Chatgpt%20Screen%20Record.mp4)
+(./minichat.png)
 
 📂 Code is inside `qwen3-thinking-ui/`  
 🧠 Built using Streamlit + Ollama (Qwen3 4B)  
