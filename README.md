@@ -1,5 +1,7 @@
-FRONTIER AI Hub 🚀
-Welcome to the FRONTIER AI Hub!
+## 🔥 Qwen3 Local Chatbot with Thinking UI
 
-[🎥 Watch demo video](./Mini Chatgpt Screen Record.mp4)
+Runs entirely on your local machine — no internet, no data sharing. Shows step-by-step reasoning before answering!
 
+### 🎥 Demo
+
+▶️ [Watch the demo video](./Mini%20Chatgpt%20Screen%20Record.mp4)
